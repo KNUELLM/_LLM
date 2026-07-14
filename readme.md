@@ -8,3 +8,5 @@ Analyzing the Relationship between Teacher Competence and Pedagogical Content an
 ## CECIIS(Central European Conference on Information and Intelligent Systems) 2025
 
 # [Seminars](./seminars.md)
+
+# [Patent](./patent.md)
