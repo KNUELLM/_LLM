@@ -10,3 +10,5 @@ Analyzing the Relationship between Teacher Competence and Pedagogical Content an
 # [Seminars](./seminars.md)
 
 # [Patent](./patent.md)
+
+# [Photos](./photos)
