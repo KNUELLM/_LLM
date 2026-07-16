@@ -12,6 +12,9 @@
 
 # Seminar
 
+## 2026
+<img width="70%" height="1080" alt="Picture_participants" src="https://github.com/user-attachments/assets/db7b9f4c-8b96-442a-bd68-7ced22669198" />
+
 ## 2025
 <img width="60%" alt="2025_semina" src="https://github.com/user-attachments/assets/aba66272-3248-4b6b-9006-56f945b9fd09" />
 
