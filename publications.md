@@ -1,4 +1,4 @@
-## IMPS 
+## IMPS(International Meeting of the Psychometric Society) 2026
 <img width="50%" height="184" alt="image" src="https://github.com/user-attachments/assets/a80a6ae1-0b91-4e5a-aaf3-1ecb75830ff7" />
 <img width="50%" height="1268" alt="image" src="https://github.com/user-attachments/assets/1d1a4721-dee2-41b5-935b-dd1c97498cf7" />
 
