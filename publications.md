@@ -5,10 +5,8 @@
 <img width="50%" height="166" alt="image" src="https://github.com/user-attachments/assets/df084dcc-d10d-4609-a47f-78d8b4924737" />
 <img width="50%" height="1158" alt="image" src="https://github.com/user-attachments/assets/e5d73fbb-0820-45ef-8213-52ae41360340" />
 
-<img width="994" height="190" alt="image" src="https://github.com/user-attachments/assets/23814045-626d-425e-9648-2705b86f7159" />
+<img width="50%" height="190" alt="image" src="https://github.com/user-attachments/assets/23814045-626d-425e-9648-2705b86f7159" />
 <img width="50%" height="1228" alt="image" src="https://github.com/user-attachments/assets/4b4321c1-82d6-4993-a79e-ecef3d42cb45" />
-
-
 
 
 ## AIED(Artificial Intelligence in Education) 2026
@@ -25,9 +23,12 @@ https://link.springer.com/chapter/10.1007/978-3-032-29788-4_43
 
 https://dl.acm.org/doi/10.1145/3785022.3785122
 
-## AERA
+## AERA(American Educational Research Association) 2026 Annual meeting
+<img width="2216" height="666" alt="image" src="https://github.com/user-attachments/assets/25902c8b-a7f3-4cb7-bd11-39d262facdba" />
 
-## NCME 
+## NCME(National Council on Measurement in Education) 2026 Annual meeting
+<img width="50%" height="1008" alt="image" src="https://github.com/user-attachments/assets/41ddf483-add2-40c4-8769-f9c39475bb0e" />
+<img width="50%" height="734" alt="image" src="https://github.com/user-attachments/assets/4160a412-0e50-4999-a081-a477451d4ac1" />
 
 ## CECIIS(Central European Conference on Information and Intelligent Systems) 2025
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/fae50e20-57ef-4d88-921b-b2df3d0ad38c" />
