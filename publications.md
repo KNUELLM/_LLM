@@ -1,3 +1,16 @@
+## IMPS 
+<img width="50%" height="184" alt="image" src="https://github.com/user-attachments/assets/a80a6ae1-0b91-4e5a-aaf3-1ecb75830ff7" />
+<img width="50%" height="1268" alt="image" src="https://github.com/user-attachments/assets/1d1a4721-dee2-41b5-935b-dd1c97498cf7" />
+
+<img width="50%" height="166" alt="image" src="https://github.com/user-attachments/assets/df084dcc-d10d-4609-a47f-78d8b4924737" />
+<img width="50%" height="1158" alt="image" src="https://github.com/user-attachments/assets/e5d73fbb-0820-45ef-8213-52ae41360340" />
+
+<img width="994" height="190" alt="image" src="https://github.com/user-attachments/assets/23814045-626d-425e-9648-2705b86f7159" />
+<img width="50%" height="1228" alt="image" src="https://github.com/user-attachments/assets/4b4321c1-82d6-4993-a79e-ecef3d42cb45" />
+
+
+
+
 ## AIED(Artificial Intelligence in Education) 2026
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/75cb28d9-ec47-466d-b98f-324345001764" />
 
@@ -11,6 +24,10 @@ https://link.springer.com/chapter/10.1007/978-3-032-29788-4_43
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/a4653a62-36c6-49ea-ab24-2f88b26bc2a6" />
 
 https://dl.acm.org/doi/10.1145/3785022.3785122
+
+## AERA
+
+## NCME 
 
 ## CECIIS(Central European Conference on Information and Intelligent Systems) 2025
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/fae50e20-57ef-4d88-921b-b2df3d0ad38c" />
