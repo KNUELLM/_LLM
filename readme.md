@@ -1,6 +1,10 @@
 # KNUE_LLM
-Teachers’ Instruction and Evaluation Discourse Practices and the Consequent Student Achievement explored via Big Data, Deep Learning (Large Language Model), and Qualitative Research Techniques: 
-Analyzing the Relationship between Teacher Competence and Pedagogical Content and Modeling Teacher Expertise Prediction and Feedback (Principal Investigator: Professor Jin Eun YOO). This project has been supported by the National Research Foundation of Korea (NRF-2024S1A5C3A01042642; 2024-2027). 
+[Title] Teachers’ Instruction and Evaluation Discourse Practices and the Consequent Student Achievement explored via Big Data, Deep Learning (Large Language Model), and Qualitative Research Techniques: 
+Analyzing the Relationship between Teacher Competence and Pedagogical Content and Modeling Teacher Expertise Prediction and Feedback  
+
+[Principal Investigator] Professor Jin Eun Yoo
+
+This project has been supported by the National Research Foundation of Korea (NRF-2024S1A5C3A01042642; 2024-2027). 
 
 # [Publications](./publications.md) 
 ## IMPS(International Meeting of the Psychometric Society) 2026
