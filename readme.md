@@ -9,7 +9,7 @@ This project has been supported by the National Research Foundation of Korea (Mi
 
 [Principal Investigator] Professor Jin Eun Yoo
 
-This project has been supported by the National Research Foundation of Korea (Ministry of Education; NRF-2024S1A5C3A01042642; 2024-2027; KRW 537 million). 
+This project has been supported by the National Research Foundation of Korea (Ministry of Education; 2024-2027; NRF-2024S1A5C3A01042642; KRW 537 million). 
 
 # [Conference Presentations](./publications.md) 
 ## 2026
