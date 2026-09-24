@@ -12,7 +12,8 @@ This project has been supported by the National Research Foundation of Korea (Mi
 ## LAK(Learning Analytics and Knowledge) 2026
 ## AERA(American Educational Research Association) 2026 Annual meeting
 ## NCME(National Council on Measurement in Education) 2026 Annual meeting
-## 2025 ### CECIIS(Central European Conference on Information and Intelligent Systems) 2025
+## 2025 
+### CECIIS(Central European Conference on Information and Intelligent Systems) 2025
 
 # [Seminars](./seminars.md)
 
