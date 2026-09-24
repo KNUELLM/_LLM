@@ -7,11 +7,12 @@ Analyzing the Relationship between Teacher Competence and Pedagogical Content an
 This project has been supported by the National Research Foundation of Korea (Ministry of Education; NRF-2024S1A5C3A01042642; 2024-2027; KRW 537 million). 
 
 # [Publications](./publications.md) 
-## IMPS(International Meeting of the Psychometric Society) 2026
-## AIED(Artificial Intelligence in Education) 2026
-## LAK(Learning Analytics and Knowledge) 2026
-## AERA(American Educational Research Association) 2026 Annual meeting
-## NCME(National Council on Measurement in Education) 2026 Annual meeting
+##2026
+### IMPS(International Meeting of the Psychometric Society) 2026
+### AIED(Artificial Intelligence in Education) 2026
+### LAK(Learning Analytics and Knowledge) 2026
+### AERA(American Educational Research Association) 2026 Annual meeting
+### NCME(National Council on Measurement in Education) 2026 Annual meeting
 ## 2025 
 ### CECIIS(Central European Conference on Information and Intelligent Systems) 2025
 
