@@ -1,4 +1,10 @@
 # KNUE_LLM
+[Title] A Unified Framework for Modeling and Evaluating Human-Uncertainty-Aware Language Models in Context-Dependent Decision-Making  
+[Principal Investigator] Professor Jin Eun Yoo
+
+This project has been supported by the National Research Foundation of Korea (Ministry of Science and ICT; 2026-2031; KRW 300 million). 
+
+
 [Title] Teachers’ Instruction and Evaluation Discourse Practices and the Consequent Student Achievement explored via Big Data, Deep Learning (Large Language Model), and Qualitative Research Techniques: 
 Analyzing the Relationship between Teacher Competence and Pedagogical Content and Modeling Teacher Expertise Prediction and Feedback  
 
