@@ -8,13 +8,13 @@ This project has been supported by the National Research Foundation of Korea (Mi
 
 # [Conference Presentations](./publications.md) 
 ## 2026
-### IMPS(International Meeting of the Psychometric Society) 2026
-### AIED(Artificial Intelligence in Education) 2026
-### LAK(Learning Analytics and Knowledge) 2026
-### AERA(American Educational Research Association) 2026 Annual meeting
-### NCME(National Council on Measurement in Education) 2026 Annual meeting
+### IMPS(International Meeting of the Psychometric Society) July 2026
+### AIED(Artificial Intelligence in Education) June-July 2026
+### LAK(Learning Analytics and Knowledge) April-May 2026
+### AERA(American Educational Research Association) April 2026 
+### NCME(National Council on Measurement in Education) April 2026 
 ## 2025 
-### CECIIS(Central European Conference on Information and Intelligent Systems) 2025
+### CECIIS(Central European Conference on Information and Intelligent Systems) September 2025
 
 # [Seminars](./seminars.md)
 
